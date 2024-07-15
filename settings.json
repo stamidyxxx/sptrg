@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "www2.scptuj.si",
+            "port": 9999,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "database": "branda.luka23",
+            "username": "branda.luka23",
+            "name": "scptuj"
+        }
+    ]
+}
